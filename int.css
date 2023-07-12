@@ -1,0 +1,120 @@
+.bg-container
+{
+background-image:url(https://img.freepik.com/premium-vector/summer-beach-background-sandy-seashore-sea-coast-with-palm-tree-vocation-seaside-travel-cartoon-backdrop-https://img.freepik.com/free-photo/breathtaking-hawaii-landscape-with-ocean_23-2149082958.jpg?w=900&t=st=1678213605~exp=1678214205~hmac=aa6361dc436f0629a392215befbebe66302fff33a0120e6dbc922891f661cd7e-1407.jpg?w=1060://img.freepik.com/free-photo/beautiful-girl-standing-viewpoint-koh-nangyuan-island-near-koh-tao-island-surat-thani-thailand_335224-1094.jpg?w=900&t=st=1678196385~exp=1678196985~hmac=589fccdf1c65cc801335d1d3db4b38e0183c508edacd076fca2a03d8b9d9df58);
+height: 100vh;
+color:white;
+width:100vw;
+background-size: cover;
+padding:5px;
+}
+.h-center
+{
+text-align:center;
+background-color: white;
+padding:5px;
+}
+.main-heading{
+    font-family: roboto;
+    color:blue;
+    text-decoration:underline;
+    font-size:28px;
+}
+.para
+{
+    text-align:center;
+    font-style:italic;
+    font-family:roboto;
+    font-size:25px;
+    color:black;
+
+}
+.button
+{
+    position:relative;
+  
+    height:36px;
+    width:138px;
+    border-radius: 10px;
+    border-width:0px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+}
+.button-green{
+    background-color:#68cc3f ;
+}
+
+.background-details
+{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png);
+    height: 100vh;
+    background-size: cover;
+}
+.background-head
+{   color:black;
+    font-family: roboto;
+    font-size: 28px;
+    font-style: italic;
+    padding:20px;
+}
+.taj-card
+{
+    background-color: white;
+    padding:20px;
+    margin:15px;
+}
+.taj-head
+{
+    color:black;
+    font-family: roboto;
+    font-size: 28px;
+    font-style: italic;
+}
+.taj-para
+{
+    color:black;
+    font-family:roboto;
+    font-style:italic;
+    font-size:15px;
+}
+.img-taj
+{
+    height: 100px;
+    width: 70px;
+}
+
+
+.detailed-view-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 100vh;
+    background-size: cover;
+  }
+  .detailed-view-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    padding: 24px;
+  }
+  .detailed-view-card-container {
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 24px;
+  }
+
+  .detailed-view-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+  }
+  .detailed-view-card-description {
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 13px;
+  }
+  .detailed-view-card-text-container 
+  {
+    padding: 16px;}

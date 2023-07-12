@@ -1,0 +1,26 @@
+.header{
+    background:linear-gradient(180deg,lightgrey,black);
+    font-size: 25px;
+    font-style: italic;
+    font-family: roboto;
+    color:whitesmoke;
+    padding:10px;
+}
+
+nav{
+           
+    background-color: gray;
+}
+nav a{
+   
+    color:white;
+    overflow: hidden;
+    background-color:gray;
+    padding:10px 25px;
+    display: inline-block;
+    text-decoration: none;
+
+}
+nav a:hover{background-color: red;
+
+}

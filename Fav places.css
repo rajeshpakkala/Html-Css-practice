@@ -1,0 +1,38 @@
+.background-details
+{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png);
+    height: 100vh;
+    background-size: cover;
+}
+.background-head
+{   color:black;
+    font-family: roboto;
+    font-size: 28px;
+    font-style: italic;
+    padding:20px;
+}
+.taj-card
+{
+    background-color: white;
+    padding:20px;
+    margin:15px;
+}
+.taj-head
+{
+    color:black;
+    font-family: roboto;
+    font-size: 28px;
+    font-style: italic;
+}
+.taj-para
+{
+    color:black;
+    font-family:roboto;
+    font-style:italic;
+    font-size:15px;
+}
+.img-taj
+{
+    height: 100px;
+    width: 70px;
+}

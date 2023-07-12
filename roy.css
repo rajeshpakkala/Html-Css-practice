@@ -1,0 +1,38 @@
+.card-bg
+{
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+  height:150vh;
+  background-size: cover;
+}
+.card-head
+{
+  font-size: 30px;
+  font-style: italic;
+  padding:20px;
+
+} 
+.detailed-taj-cont
+{
+  background-color: white;
+  font-size: 40px;
+  font-style:italic;
+  font-weight: 30;
+  margin:20px;
+
+
+}
+.card-taj-head
+{
+ font-size: 20px;
+ color: blue;
+ font-style: italic;
+ padding:15px;
+
+}
+.para
+{
+  font-size:20px;
+  color: black;
+  padding:20px;
+}
+

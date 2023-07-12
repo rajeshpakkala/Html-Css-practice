@@ -1,0 +1,25 @@
+.bg-cont{
+    background-color: blueviolet;
+    height: 100vh;
+}
+.head{
+    font-family: roboto;
+    font-size: 40px;
+    font-style: italic;
+    color:red;
+    text-align: center;
+}
+.un-order{
+    background-color: white;
+    margin:auto;
+    padding:auto;
+}
+.padding{
+    padding:auto;
+    margin:auto;
+}
+.padding1{
+    color:black;
+    padding:auto;
+    margin:auto;
+}
