@@ -11,6 +11,36 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="roy.css">
 </head>
+<input type="checkbox" onclick="passshow()" name="cb" id="cb">
+<p id="para">show password</p>
+
+<script>
+  var a=document.getElementsByClassName("lab");
+  console.log(a[0]);
+  for(var i=0;i<a.length;i++){
+  console.log(a[i]);
+
+  }
+  function passshow(){
+      var x=document.getElementById("pswd");
+      var y=document.getElementById("para");
+      y.innerHTML=y.innerHTML+"Hello World!";
+      console.log(x);
+      console.log(x.name);
+      if( document.body.style.backgroundColor==="black" ){
+          document.body.style.backgroundColor="white";
+      }else{
+          document.body.style.backgroundColor="black";
+      }
+      if(document.getElementById("pswd").type==="password"){
+          document.getElementById("pswd").type="text";
+
+      }else{
+          document.getElementById("pswd").type="password";
+
+      }
+  }
+</script>
 <body>
    <div class="card-bg">
         <h1 class="card-head">Detailed view</h1>
